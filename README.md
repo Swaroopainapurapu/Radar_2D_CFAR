@@ -1,8 +1,8 @@
 # Radar_2D_CFAR
  2D CFAR IMPLEMENTATION
-This project is a solution for the Radar Module in the Sensor Fusion Nanodegree
+%This project is a solution for the Radar Module in the Sensor Fusion Nanodegree
 
-Implementation steps for the 2D CFAR process
+%Implementation steps for the 2D CFAR process
 Loop over elements of RDM array each iteration selecting one cell to be the CUT (Cell Under Test)
 for i = Tr+Gr+1 : (Nr/2)-(Gr+Tr)
 for j = Td+Gd+1 : Nd-(Gd+Td)
