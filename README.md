@@ -19,7 +19,7 @@ In this project:
 After determining the beat signal and performing range FTT, the output is
 
 
-![alt_text](images/ftt_output.png "image_tooltip")
+![alt_text](out01.png "image_tooltip")
 
 
 Using the frequency from above, we calculate the range as
