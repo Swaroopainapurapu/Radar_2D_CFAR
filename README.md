@@ -34,7 +34,7 @@ R = (c*Tchirp*f)/(2*Bsweep);
 Output of Range estimation:
 
 
-![alt_text](images/Range_from_First_FFT.png "image_tooltip")
+![alt_text](out02.png "image_tooltip")
 
 
 
@@ -43,7 +43,7 @@ Output of Range estimation:
 The 2D FTT is run on the mixed signal (beat signal) output to generate the Range Doppler Map.
 
 
-![alt_text](images/2d_ftt.png "image_tooltip")
+![alt_text](out03.png "image_tooltip")
 
 
 
