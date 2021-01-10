@@ -31,10 +31,7 @@ R = (c*Tchirp*f)/(2*Bsweep);
 ```
 
 
-Output of Range estimation:
 
-
-![alt_text](out02.png "image_tooltip")
 
 
 
@@ -43,7 +40,7 @@ Output of Range estimation:
 The 2D FTT is run on the mixed signal (beat signal) output to generate the Range Doppler Map.
 
 
-![alt_text](out03.png "image_tooltip")
+![alt_text](out02.png "image_tooltip")
 
 
 
@@ -82,4 +79,4 @@ The main outcome of the coherent processing procedure applied to the received ec
 *   Since the cell under test are not located at the edges, due to the training cells occupying the edges, we suppress the edges to zero. Any cell value that is neither 1 nor a 0, assign it a zero.
 
 
-![alt_text](images/cfar_output.png "image_tooltip")
+![alt_text](out03.png "image_tooltip")
